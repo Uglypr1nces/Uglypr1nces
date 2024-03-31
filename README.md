@@ -1,4 +1,4 @@
-# Hello, I'm Shpat! 👋
+# Hey! 👋
 
 I'm a Software Developer passionate about programming. Welcome to my GitHub profile!
 
