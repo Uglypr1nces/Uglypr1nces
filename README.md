@@ -8,13 +8,6 @@ I'm a Software Developer passionate about programming. Welcome to my GitHub prof
 - 🌱 I'm constantly learning and exploring new technologies.
 - 💡 I enjoy working on projects with other developers.
 
-## My Interests
-
-- 🤖 Programming
-- 🎮 Gaming
-- 📚 Reading
-- 🎵 Music
-
 ## My Projects
 
 Here are some projects I've been working on:
@@ -28,7 +21,7 @@ Feel free to explore them and provide feedback!
 ## Get in Touch
 
 - 📧 Email: [shpatavdiu4@gmail.com](mailto:shpatavdiu4@gmail.com)
-- 💼 Portfolio: [Your Portfolio Website](https://uglypr1nces.github.io/uglyprincess-Yip.github.io/index.html)
+- 💼 Portfolio: [uglypr1nces.github.io](https://uglypr1nces.github.io/uglyprincess-Yip.github.io/index.html)
 
 Let's connect and collaborate on interesting projects!
 
