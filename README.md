@@ -4,7 +4,6 @@ I'm a Software Developer passionate about programming. Welcome to my GitHub prof
 
 ## About Me
 
-- 💼 I'm currently working as a self-taught programmer.
 - 🌱 I'm constantly learning and exploring new technologies.
 - 💡 I enjoy working on projects with other developers.
 
