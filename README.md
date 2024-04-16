@@ -1,7 +1,5 @@
 # Hey! 👋
 
-I'm a Software Developer passionate about programming. Welcome to my GitHub profile!
-
 ## About Me
 
 - 🌱 I'm constantly learning and exploring new technologies.
