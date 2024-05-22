@@ -14,6 +14,7 @@
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> 
      <img alt="C#" src="https://img.shields.io/badge/C%23-yellow">
    </a>
+  &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
