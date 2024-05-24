@@ -82,11 +82,3 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
 </p>
-
-<br> 
-
----
-
-</details>
-
-</br></br>
