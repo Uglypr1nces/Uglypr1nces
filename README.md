@@ -7,7 +7,6 @@
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - &#128187; I love my `Computer`.
 - :nerd_face: Always `learning new things`.
-- prettypeasent is my pookie :)
 
 ## 🛠️ My Skills
 
